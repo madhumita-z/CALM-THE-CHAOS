@@ -16,7 +16,7 @@ Rising global mental health issues among students and working adults
 People rarely get support right when they need it, which leads to worsened emotional states and delayed recovery.
 
 # Our Solution
-Calm the Chaos uses AI to deliver personalized emotional support at critical moments.
+Calm the Chaos uses AI to deliver personalized emotional support at critical moments. 
 
 # How It Helps
 Detects subtle stress cues from journaling, chat patterns, voice notes, and app activity
